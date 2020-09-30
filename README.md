@@ -4,6 +4,6 @@ This repository is meant to be an entry-point for those who wish to improve thei
 
 ## Web resources
 
-- [Pluralsight](pluralsight.com) has a many Go courses of varying levels.
+- [Pluralsight](http://pluralsight.com) has a many Go courses of varying levels.
 - https://gophercises.com/
 - https://exercism.io/tracks/go
